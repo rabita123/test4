@@ -1,5 +1,6 @@
 <?php 
 require_once ('config.php');
+echo "second update";
 
 require_once ( __DIR__ . '/inc/class.crud.php');
 //require_once ( __DIR__ . '/inc/class.city.php');
